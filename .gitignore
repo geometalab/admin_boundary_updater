@@ -1,0 +1,11 @@
+.idea/
+.settings/
+.cache/
+.project
+.pydevproject
+*.pyc
+EOSMDBOne2.json
+swissBOUNDARIES3D.json
+swissBOUNDARIES3D16.json
+illnauEosm.json
+illnauSbound.json
